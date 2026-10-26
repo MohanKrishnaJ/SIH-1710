@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 26/10/2026
-## Register Number: 212225040303 
-## Name: POORNIMA J
+## Register Number: 212223220060
+## Name: MOHAN KRISHNA J
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
